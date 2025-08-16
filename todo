@@ -1,0 +1,12 @@
+create a component ChatBox that take 
+- box size 3/4 screen
+  add header 
+  add chat 
+  add input to answer + button 
+  then 
+  scroll on message 
+
+  use tailwind 
+  check shadcn/ui
+  Framer motion ??
+

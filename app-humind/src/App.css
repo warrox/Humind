@@ -45,5 +45,16 @@ body{
   background-image: linear-gradient(to right bottom, #000711, #001733, #002057, #00277a, #07289b);
 }
 .landing{
-
+  height: 100vh;
+  display:flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding:0;
+}
+.landing h1{
+  margin: 0;
+}
+.chatbox{
+  max-width: 1640px;
+  margin : 0 auto;
 }

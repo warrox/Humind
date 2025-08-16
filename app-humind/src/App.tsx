@@ -5,7 +5,8 @@ import './App.css'
 function ChatBox() {
   return (
     <>
-      <div>
+      <div className="chatbox">
+
         <h2>Test</h2>
       </div>
     </>
@@ -16,7 +17,7 @@ function App() {
   return (
     <>
       <div className="landing">
-        <h1>Hello World</h1>
+        <h1>Humind</h1>
       </div>
       <div><ChatBox /></div>
     </>
